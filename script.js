@@ -218,11 +218,11 @@ const propertiesData = [
         price: "$850,000",
         specs: "420 M2 - 6 ROOMS",
         images: [
-            "media/card1/Image_1.png",
-            "media/card1/Image_2.png",
-            "media/card1/Image_3.png",
-            "media/card1/Image_4.png",
-            "media/card1/Image_5.png"
+            "/Websites/media/card1/image_1.png",
+            "/Websites/media/card1/image_2.png",
+            "/Websites/media/card1/image_3.png",
+            "/Websites/media/card1/image_4.png",
+            "/Websites/media/card1/image_5.png"
         ]
     },
     {
@@ -231,11 +231,11 @@ const propertiesData = [
         price: "$1,120,000",
         specs: "510 M2 - 8 ROOMS",
         images: [
-            "media/card2/Image_1.png",
-            "media/card2/Image_2.png",
-            "media/card2/Image_3.png",
-            "media/card2/Image_4.png",
-            "media/card2/Image_5.png"
+            "./media/card2/Image_1.png",
+            "./media/card2/Image_2.png",
+            "./media/card2/Image_3.png",
+            "./media/card2/Image_4.png",
+            "./media/card2/Image_5.png"
         ]
     },
     {
@@ -244,11 +244,11 @@ const propertiesData = [
         price: "$680,000",
         specs: "310 M2 - 5 ROOMS",
         images: [
-            "media/card3/Image_1.png",
-            "media/card3/Image_2.png",
-            "media/card3/Image_3.png",
-            "media/card3/Image_4.png",
-            "media/card3/Image_5.png"
+            "./media/card3/Image_1.png",
+            "./media/card3/Image_2.png",
+            "./media/card3/Image_3.png",
+            "./media/card3/Image_4.png",
+            "./media/card3/Image_5.png"
         ]
     },
     {
