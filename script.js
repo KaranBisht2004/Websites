@@ -231,11 +231,11 @@ const propertiesData = [
         price: "$1,120,000",
         specs: "510 M2 - 8 ROOMS",
         images: [
-            "./media/card2/Image_1.png",
-            "./media/card2/Image_2.png",
-            "./media/card2/Image_3.png",
-            "./media/card2/Image_4.png",
-            "./media/card2/Image_5.png"
+            "/Websites/media/card2/image_1.png",
+            "/Websites/media/card2/image_2.png",
+            "/Websites/media/card2/image_3.png",
+            "/Websites/media/card2/image_4.png",
+            "/Websites/media/card2/image_5.png"
         ]
     },
     {
@@ -244,11 +244,11 @@ const propertiesData = [
         price: "$680,000",
         specs: "310 M2 - 5 ROOMS",
         images: [
-            "./media/card3/Image_1.png",
-            "./media/card3/Image_2.png",
-            "./media/card3/Image_3.png",
-            "./media/card3/Image_4.png",
-            "./media/card3/Image_5.png"
+            "/Websites/media/card3/image_1.png",
+            "/Websites/media/card3/image_2.png",
+            "/Websites/media/card3/image_3.png",
+            "/Websites/media/card3/image_4.png",
+            "/Websites/media/card3/image_5.png"
         ]
     },
     {
@@ -257,11 +257,11 @@ const propertiesData = [
         price: "$790,000",
         specs: "380 M2 - 6 ROOMS",
         images: [
-            "media/card4/image_1.png",
-            "media/card4/image_2.png",
-            "media/card4/image_3.png",
-            "media/card4/image_4.png",
-            "media/card4/image_5.png"
+            "/Websites/media/card4/image_1.png",
+            "/Websites/media/card4/image_2.png",
+            "/Websites/media/card4/image_3.png",
+            "/Websites/media/card4/image_4.png",
+            "/Websites/media/card4/image_5.png"
         ]
     },
     {
@@ -270,11 +270,11 @@ const propertiesData = [
         price: "$1,650,000",
         specs: "640 M2 - 9 ROOMS",
         images: [
-            "media/card5/image_1.png",
-            "media/card5/image_2.png",
-            "media/card5/image_3.png",
-            "media/card5/image_4.png",
-            "media/card5/image_5.png"
+            "/Websites/media/card5/image_1.png",
+            "/Websites/media/card5/image_2.png",
+            "/Websites/media/card5/image_3.png",
+            "/Websites/media/card5/image_4.png",
+            "/Websites/media/card5/image_5.png"
         ]
     },
     {
