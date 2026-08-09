@@ -313,7 +313,7 @@ section {
 }
 
 #heading-1Down .hero-line-deco {
-    width: 40vw;
+    width: 30vw;
     flex-shrink: 0;
     display: inline-block;
 }
